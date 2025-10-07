@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "+27835544609",
+    "password": "TRASHBOT",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
-    ""
+    "61578831083228",
+    "61578880754625"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
+  "nickNameBot": "TRASHBOT",
   "prefix": "/",
   "database": {
     "type": "sqlite",
